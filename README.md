@@ -34,12 +34,56 @@ Create a Virtual Machine running Windows 10 in Azure. To ensure consistency, ins
 
 <h2>Installation Steps</h2>
 
+<h2>Installation Steps</h2>
+<h3> Creating a Virtual Machine</h3>
+<p>
+Start by searching and selecting the "Virtual Machines" in the search bar of Microsoft Azure (Make sure you select "Virtual Machines" not "Virtual Networks"). 
+</p>
+
+<p>
+<img src="https://i.imgur.com/E8texzH.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+
+
+<br />
+<h3> Setting up Resource Group</h3>
+
+<p>
+ After clicking on the "Virtual Machine Name", you can name it anything you like. For this tutorial, we’ll name ours "osticket-vm". Select "Create new Resource Group" and click on the virtual machine you just created, and name the resource group "osticket." Choose your region based on your location (e.g., "Central Canada" if you're in Canada).
+
+Scroll down to find the "Image" option and select "Windows 10 Pro, Version 22H2, x64 Gen2." Ensure the virtual machine has at least 2 vCPUs and 16 GB of memory, which you can set in the "Size" option on the same page.
+
+You don’t need to change any default settings on the following pages, but make sure the licensing box is checked on the first page. Once done, proceed to review and create the virtual machine. The system will automatically create a virtual network, so you don’t need to configure that..</p>
+
+<p>
+<img src="https://i.imgur.com/G2mmFrE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+
+<h3> Connecting to Remote Desktop</h3>
+
+  <p> After all these steps are excecuted, you can then move on to connecting to your virtual machine using "Remote Desktop Connecion". Make sure to grab your "Public IP Adress". (You will find this by clicking on your virtual machine you just created. It should be near the top right of the screen). Make sure your virtual machines Public IP Adress is pasted properly in the Remote Desktop Connection.</p>
+</p>
+
+<p>
+
+
+![Screenshot 2024-12-19 190352](https://github.com/user-attachments/assets/eb093865-c1e6-4be2-bc94-f9d1c53b20b4)
+
+
+
+</p>
+
+<p>
+
+</p>
+
+
 <p>
 <img src="https://i.imgur.com/vvoU3a4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
   
-- Create a virtual machine that uses Windows 10.
+
 - Install IIS by right-clicking on the start button, click on "run" and type in "control panel".
 - Select program and features. Select "windows features". Install and enable IIS management console in web management tools.
 - In addition, enable CGI and all of Common HTTP Features boxes (located in: world wide web services > application development features.)
