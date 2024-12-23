@@ -41,7 +41,12 @@ Start by searching and selecting the "Virtual Machines" in the search bar of Mic
 </p>
 
 <p>
-<img src="https://i.imgur.com/E8texzH.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+ ![Screenshot 2024-12-22 171540](https://github.com/user-attachments/assets/5a5ea622-a271-42b6-b431-a6be81603703)
+
+
+
+
 </p>
 
 
