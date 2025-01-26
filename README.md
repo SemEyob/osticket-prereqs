@@ -134,7 +134,8 @@ You don’t need to change any default settings on the following pages, but make
 <br />
 
 <p>
-<img src="https://i.imgur.com/pdshWGR.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Wg2UZWR.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+ 
 </p>
 <p>
   
@@ -148,7 +149,8 @@ You don’t need to change any default settings on the following pages, but make
 <br />
 
 <p>
-<img src="https://i.imgur.com/X9x3jg8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+
 </p>
 <p>
   
