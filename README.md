@@ -84,7 +84,8 @@ You don’t need to change any default settings on the following pages, but make
 
 
 <p>
-<img src="https://i.imgur.com/vvoU3a4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <img src="https://i.imgur.com/6h7KEce.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ 
 </p>
 <p>
   
@@ -99,7 +100,8 @@ You don’t need to change any default settings on the following pages, but make
 <br />
 
 <p>
-<img src="https://i.imgur.com/McWbPOj.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ <img src="https://i.imgur.com/fddo2dU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ 
 </p>
 <p>
   
@@ -110,7 +112,8 @@ You don’t need to change any default settings on the following pages, but make
 <br />
 
 <p>
-<img src="https://i.imgur.com/gEEG4Ae.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/8B9O9hP.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ 
 </p>
 <p>
   
